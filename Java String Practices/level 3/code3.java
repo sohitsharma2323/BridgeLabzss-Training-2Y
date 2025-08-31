@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java3{
+class code3{
     public static char findFirstNonRepeating(String text) {
         int[] freq = new int[256];
         for (int i = 0; i < text.length(); i++) {
