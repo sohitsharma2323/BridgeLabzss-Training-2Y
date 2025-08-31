@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java4 {
+class code4 {
     public static void findFrequency(String text) {
         int[] freq = new int[256];
         for (int i = 0; i < text.length(); i++) {
