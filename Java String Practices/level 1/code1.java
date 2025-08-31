@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java1 {
+class code1 {
     public static boolean compareStrings(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         for (int i = 0; i < s1.length(); i++) {
