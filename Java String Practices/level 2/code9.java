@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java9 {
+class code9 {
     public static String getComputerChoice() {
         String[] choices = {"rock", "paper", "scissors"};
         return choices[(int) (Math.random() * 3)];
