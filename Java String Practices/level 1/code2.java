@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java2 {
+class code2 {
     public static String customSubstring(String text, int start, int end) {
         String result = "";
         for (int i = start; i < end; i++) {
