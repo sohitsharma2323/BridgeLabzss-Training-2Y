@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java8 {
+class code8 {
     public static boolean canVote(int age) {
         return (age >= 18);
     }
