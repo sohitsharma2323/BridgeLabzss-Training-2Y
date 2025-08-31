@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java3 {
+class code3 {
     public static char[] customToCharArray(String text) {
         char[] arr = new char[text.length()];
         for (int i = 0; i < text.length(); i++) {
