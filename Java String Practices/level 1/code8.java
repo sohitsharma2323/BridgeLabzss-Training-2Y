@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java8 {
+class code8 {
     public static void generateException(String[] arr) {
         System.out.println(arr[arr.length]); // Invalid index
     }
