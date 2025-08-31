@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java6 {
+class code6 {
     public static String charType(char ch) {
         ch = Character.toLowerCase(ch);
         if (!Character.isLetter(ch)) return "Not a Letter";
