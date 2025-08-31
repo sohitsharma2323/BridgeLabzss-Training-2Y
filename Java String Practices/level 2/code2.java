@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java2 {
+class code2 {
     public static String[] customSplit(String text) {
         text = text.trim() + " ";
         int spaceCount = 0;
