@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java8 {
+class code7 {
     public static void generateException(String text) {
         int num = Integer.parseInt(text); // throws exception if not a number
         System.out.println("Number: " + num);
