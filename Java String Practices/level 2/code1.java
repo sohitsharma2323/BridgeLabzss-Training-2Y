@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java1 {
+class code1 {
     public static int customLength(String text) {
         int count = 0;
         try {
