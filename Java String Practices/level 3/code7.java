@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java7 {
+class code7 {
     public static boolean checkIterative(String text) {
         int start = 0, end = text.length() - 1;
         while (start < end) {
