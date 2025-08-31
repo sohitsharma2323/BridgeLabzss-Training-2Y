@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java7 {
+class code7 {
     public static String customTrim(String text) {
         int start = 0, end = text.length() - 1;
         while (start <= end && text.charAt(start) == ' ') start++;
