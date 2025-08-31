@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java6 {
+class code6 {
     public static void findFrequency(String text) {
         char[] arr = text.toCharArray();
         int[] freq = new int[arr.length];
