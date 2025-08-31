@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java10 {
+class code10 {
     public static String grade(double percentage) {
         if (percentage >= 90) return "A";
         else if (percentage >= 75) return "B";
