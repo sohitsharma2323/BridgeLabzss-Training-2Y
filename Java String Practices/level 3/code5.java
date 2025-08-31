@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java5 {
+class code5 {
     public static char[] uniqueChars(String text) {
         char[] temp = new char[text.length()];
         int idx = 0;
