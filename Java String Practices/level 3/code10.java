@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java10 {
+class code10 {
     public static String[] initDeck() {
         String[] suits = {"Hearts", "Diamonds", "Clubs", "Spades"};
         String[] ranks = {"2","3","4","5","6","7","8","9","10",
