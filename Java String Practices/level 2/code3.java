@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java3 {
+class code3 {
     public static String[][] wordsWithLengths(String text) {
         String[] words = text.split(" ");
         String[][] result = new String[words.length][2];
