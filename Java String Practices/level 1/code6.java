@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java6 {
+class code6 {
     public static void generateException(String text) {
         System.out.println(text.substring(5, 2)); // start > end
     }
