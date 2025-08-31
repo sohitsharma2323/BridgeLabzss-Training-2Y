@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java9 {
+class code9 {
     public static String customToUpperCase(String text) {
         String result = "";
         for (int i = 0; i < text.length(); i++) {
