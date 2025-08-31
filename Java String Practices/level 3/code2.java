@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class java2 {
+class code2 {
     public static char[] findUnique(String text) {
         char[] result = new char[text.length()];
         int index = 0;
